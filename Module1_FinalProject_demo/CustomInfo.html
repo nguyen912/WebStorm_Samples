@@ -5,62 +5,86 @@
     <title>Customer Information</title>
 </head>
 <body>
-    <fieldset>
+    <fieldset id="field">
         <legend>Customer Information</legend>
         Customer Name:
-        <input id="name" type="text">
+        <input id="name" type="text" value="Nguyen Ha Nguyen">
         <br><br>
         ID Card:
-        <input id="name" type="text">
+        <input type="text" id="idCard" value="123456789">
         <br><br>
         Birthday:
-        <input>
+        <input type="text" id="birth" value="09/12/1998">
         <br><br>
         Email:
-        <input>
+        <input type="email" id="email" value="nguyen@gmail.com">
         <br><br>
         Address:
-        <input>
+        <input type="text" id="add" value="123 PCT">
         <br><br>
         Customer Type:
-        <select>
-            <option>Diamond</option>
-            <option>Platium</option>
-            <option>Gold</option>
-            <option>Sliver</option>
-            <option>Member</option>
+        <select id="cusType">
+            <option value="Diamond">Diamond</option>
+            <option value="Platium">Platium</option>
+            <option value="Gold" selected>Gold</option>
+            <option value="Sliver">Sliver</option>
+            <option value="Member">Member</option>
         </select>
         <br><br>
         Discount:
-        <input>
+        <input type="number" id="dis" value="10">
         <br><br>
         The number of guests:
-        <input>
+        <input type="number" id="nog" value="2">
         <br><br>
         Number of days rented:
-        <input>
+        <input type="number" id="nor" value="3">
         <br><br>
         Service Type:
-        <select>
-            <option>Villa</option>
-            <option>House</option>
-            <option>Room</option>
+        <select id="service">
+            <option value="Villa">Villa</option>
+            <option value="House">House</option>
+            <option value="Room" selected>Room</option>
         </select>
         <br><br>
         Room Type:
-        <select>
-            <option>V.I.P</option>
-            <option>Business</option>
-            <option>Normal</option>
+        <select id="room">
+            <option value="V.I.P" selected>V.I.P</option>
+            <option value="Business">Business</option>
+            <option value="Normal">Normal</option>
         </select>
     </fieldset>
     <br>
-    <input type="button" value="Done">
-    <script>
-        function inputInfo() {
+    <input type="button" value="Done" onclick="inputInfo();">
+    <br><br>
 
-        }
-    </script>
+    <fieldset>
+        <p id="outName"></p>
+        <hr>
+        <p id="outID"></p>
+        <hr>
+        <p id="outBirth"></p>
+        <hr>
+        <p id="outEmail"></p>
+        <hr>
+        <p id="outAdd"></p>
+        <hr>
+        <p id="outCus"></p>
+        <hr>
+        <p id="outDis"></p>
+        <hr>
+        <p id="outNog"></p>
+        <hr>
+        <p id="outNor"></p>
+        <hr>
+        <p id="outService"></p>
+        <hr>
+        <p id="outRoom"></p>
+        <hr>
+        <p id="outTotal"></p>
+    </fieldset>
+
+    <script src="CustomInfo.js"></script>
 </body>
 </html>
 <!--Task 1:-->
