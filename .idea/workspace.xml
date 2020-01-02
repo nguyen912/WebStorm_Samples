@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09d64526-a1da-46ae-b7e2-c925298e073b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Module1_FinalProject_demo/CustomInfo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C1219H1_Nguyen_Ha_Nguyen/NguyenHaNguyen_Module1_AcountName/CustomInfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C1219H1_Nguyen_Ha_Nguyen/NguyenHaNguyen_Module1_AcountName/CustomInfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C1219H1_Nguyen_Ha_Nguyen/Module1/Cau_truc_dieu_kien/Exercise/MayTinhDonGian/SimpleCaculator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../C1219H1_Nguyen_Ha_Nguyen/Module1/Cau_truc_dieu_kien/Exercise/MayTinhDonGian/SimpleCaculator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C1219H1_Nguyen_Ha_Nguyen/NguyenHaNguyen_Module1_AcountName/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/../C1219H1_Nguyen_Ha_Nguyen/Module1/Cau_truc_dieu_kien/Exercise/DoYouLoveMe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C1219H1_Nguyen_Ha_Nguyen/NguyenHaNguyen_Module1_AcountName/info.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1_FinalProject_demo/CustomInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/Module1_FinalProject_demo/CustomInfo.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,13 +17,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../C1219H1_Nguyen_Ha_Nguyen" />
   </component>
   <component name="ProjectId" id="1VdkD8nLGfZp5aAg1dOu75xulqG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -37,7 +39,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../C1219H1_Nguyen_Ha_Nguyen" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../C1219H1_Nguyen_Ha_Nguyen/NguyenHaNguyen_Module1_AcountName" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -83,6 +85,10 @@
       <workItem from="1577714844815" duration="3186000" />
       <workItem from="1577718576862" duration="1384000" />
       <workItem from="1577726102444" duration="5668000" />
+      <workItem from="1577773560210" duration="7022000" />
+      <workItem from="1577928411158" duration="61000" />
+      <workItem from="1577928488738" duration="298000" />
+      <workItem from="1577928826432" duration="3857000" />
     </task>
     <servers />
   </component>
@@ -93,6 +99,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1577932811529">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1577932811529" />
     <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1577628860600">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
